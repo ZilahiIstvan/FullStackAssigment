@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --text-primary: #ffee58;
+
+  --bg-primary: #2196f3;
+
+  --button-primary: #ffee58;
+  --button-secondary: #2196f3;
+
+  --border-primary: green;
+  --border-secondary: #2196f3;
+}
